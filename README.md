@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rmz07/Dsa/tree/master/0001-two-sum) |
 | [2058-concatenation-of-array](https://github.com/rmz07/Dsa/tree/master/2058-concatenation-of-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rmz07/Dsa/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/rmz07/Dsa/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rmz07/Dsa/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
